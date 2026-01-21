@@ -1,0 +1,66 @@
+version: '3.8'
+
+networks:
+  douban-network:
+    driver: bridge
+
+services:
+  # 数据库服务
+  mysql:
+    image: mysql:8.0
+    container_name: douban-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: abc123
+      MYSQL_DATABASE: douban_movies
+      MYSQL_USER: douban
+      MYSQL_PASSWORD: douban123
+      MYSQL_INITDB_SKIP_TZINFO: 1
+    ports:
+      - "13306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./Fast_Api/backend/database/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./Fast_Api/douban_top250.csv:/docker-entrypoint-initdb.d/douban_top250.csv
+    command:
+      - --local-infile=1
+    networks:
+      - douban-network
+    restart: unless-stopped
+
+  # 后端服务
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: douban-backend
+    environment:
+      APP_ENV: production
+      DEBUG: false
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_USER: douban
+      DB_PASSWORD: douban123
+      DB_NAME: douban_movies
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mysql
+    networks:
+      - douban-network
+    restart: unless-stopped
+
+  # Ollama 服务（用于 AI 功能）
+  ollama:
+    image: ollama/ollama:latest
+    container_name: douban-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-data:/root/.ollama
+    networks:
+      - douban-network
+    restart: unless-stopped
+
+volumes:
+  mysql-data:
+  ollama-data:
