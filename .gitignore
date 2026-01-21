@@ -1,0 +1,30 @@
+# 前端部分
+DouBan_Top205/src/assets/**/*
+
+# 后端部分
+Fast_Api/__pycache__/
+Fast_Api/venv/
+Fast_Api/.env
+
+Fast_Api/database/movies.db
+
+# 根目录文件
+package.json
+package-lock.json
+
+# 编辑器和IDE文件
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 其他可能的文件
+*.pyc
+__pycache__/

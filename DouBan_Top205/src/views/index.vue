@@ -13,7 +13,7 @@
             <el-table-column prop="rank" label="排名" width="80" sortable>
               <template #default="{ row }">
                 <div class="rank-cell">
-                  <span :class="getRankClass(row.rank)">{{ row.rank }}</span>
+                  <span src="row.link" :class="getRankClass(row.rank)">{{ row.rank }}</span>
                 </div>
               </template>
             </el-table-column>
@@ -21,7 +21,9 @@
             <el-table-column prop="title" label="名称" width="220" sortable>
               <template #default="{ row }">
                 <div class="title-cell">
+                  <a :href="row.link">
                   <span class="movie-title">{{ row.title }}</span>
+                  </a>
                 </div>
               </template>
             </el-table-column>
@@ -85,7 +87,7 @@ import AIAssistant from '@/components/AIAssistant.vue';
 import { useAIStore } from '@/stores/store';
 import { onMounted, ref, reactive, computed, watch } from 'vue';
 
-const aiStore = useAIStore();
+const store = useAIStore();
 
 // 分页相关数据
 const allData = ref([]) // 存储所有数据
@@ -104,32 +106,31 @@ const getRankClass = (rank) => {
 }
 
 // 获取所有数据
-let getAllData = async () => {
-  try {
-    const response = await fetch('http://localhost:8000/api/v1/getlist?page=1&size=1000', { // 获取所有数据
-      method: 'GET',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-    })
+// let getAllData = async () => {
+//   try {
+//     const response = await fetch('http://localhost:8000/api/v1/getlist', { // 获取所有数据
+//       method: 'GET',
+//       headers: {
+//         'Content-Type': 'application/json'
+//       },
+//     })
 
-    if (!response.ok) {
-      const errData = await response.json().catch(() => ({}))
-      throw new Error(errData.detail || '请求失败')
-    }
+//     if (!response.ok) {
+//       const errData = await response.json().catch(() => ({}))
+//       throw new Error(errData.detail || '请求失败')
+//     }
 
-    const data = await response.json()
-    allData.value = data.results || data // 根据实际返回的数据结构调整
-    console.log('获取到的数据:', data)
-  } catch (e) {
-    console.log(e)
-  }
-}
+//     const data = await response.json()
+//     allData.value = data.results || data // 根据实际返回的数据结构调整
+//     console.log('获取到的数据:', data)
+//   } catch (e) {
+//     console.log(e)
+//   }
+// }
 
 // 计算过滤后的数据
 const filteredData = computed(() => {
   let result = allData.value
-  
   // 搜索过滤
   if (searchQuery.value) {
     result = result.filter(
@@ -202,19 +203,17 @@ watch(search, (newVal) => {
 })
 
 // 监听 Pinia Store 中的 moviesData 变化
-watch(() => aiStore.moviesData, (newData) => {
-  console.log('AI 助手数据更新:', newData);
+watch(() => store.customData, (newData) => {
+  // console.log('AI 助手数据更新:', newData);
   if (newData && Array.isArray(newData) && newData.length > 0) {
     // 如果 AI 返回了数据，使用 AI 的数据作为 allData
     allData.value = newData;
-  } else {
-    // 否则重新获取原始数据
-    getAllData();
   }
 }, { deep: true });
 
-onMounted(() => {
-  getAllData()
+onMounted(async() => {
+  await store.getAllData()
+  allData.value=store.moviesData
 })
 </script>
 
@@ -295,6 +294,9 @@ onMounted(() => {
 .title-cell {
   display: flex;
   align-items: center;
+  a{
+    text-decoration: none;
+  }
 }
 
 .movie-title {

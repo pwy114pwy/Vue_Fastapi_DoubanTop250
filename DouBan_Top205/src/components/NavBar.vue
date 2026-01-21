@@ -14,7 +14,7 @@
 
     <!-- 右侧导航项 -->
     <el-menu-item index="home" @click="goTo('/')">首页</el-menu-item>
-    <el-menu-item index="movies" @click="goTo('/movies')">电影</el-menu-item>
+    <el-menu-item index="movies_type" @click="goTo('/movies_type')">电影类型</el-menu-item>
     <el-menu-item index="tv" @click="goTo('/tv')">电视剧</el-menu-item>
     <el-menu-item index="rankings" @click="goTo('/rankings')">榜单</el-menu-item>
     <el-menu-item index="profile" @click="goTo('/profile')">我的</el-menu-item>
@@ -23,8 +23,13 @@
 
 <script setup>
 import { useRouter } from 'vue-router'
+import {useAIStore} from '@/stores/store.js';
+import { onMounted } from 'vue'
 const router = useRouter()
 const goTo = (path) => router.push(path)
+
+const store = useAIStore();
+
 </script>
 
 <style scoped>

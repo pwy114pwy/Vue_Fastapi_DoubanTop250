@@ -1,0 +1,2 @@
+#运行
+uvicorn backend.main:app --reload

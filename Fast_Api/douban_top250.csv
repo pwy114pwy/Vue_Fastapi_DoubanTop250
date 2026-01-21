@@ -1,0 +1,316 @@
+﻿rank,link,title,rating,year,country,director,genre,poster_url,poster_path
+1,https://movie.douban.com/subject/1292052/,肖申克的救赎,9.7,1994,美国,弗兰克·德拉邦特 Frank Darabont   主演: 蒂姆·罗宾斯 Tim Robbins,犯罪 剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg,posters\001_肖申克的救赎.jpg
+2,https://movie.douban.com/subject/1291546/,霸王别姬,9.6,1993,中国大陆 中国香港,陈凯歌 Kaige Chen   主演: 张国荣 Leslie Cheung,剧情 爱情 同性,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911205318.jpg,posters\002_霸王别姬.jpg
+3,https://movie.douban.com/subject/1292722/,泰坦尼克号,9.5,1997,美国 墨西哥,"詹姆斯·卡梅隆 James Cameron   主演: 莱昂纳多·迪卡普里奥 Leonardo...
+                            1997",剧情 爱情 灾难,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg,posters\003_泰坦尼克号.jpg
+4,https://movie.douban.com/subject/1292720/,阿甘正传,9.5,1994,美国,罗伯特·泽米吉斯 Robert Zemeckis   主演: 汤姆·汉克斯 Tom Hanks,剧情 爱情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.jpg,posters\004_阿甘正传.jpg
+5,https://movie.douban.com/subject/1291561/,千与千寻,9.4,2001,日本,宫崎骏 Hayao Miyazaki   主演: 柊瑠美 Rumi Hîragi,剧情 动画 奇幻,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg,posters\005_千与千寻.jpg
+6,https://movie.douban.com/subject/1292063/,美丽人生,9.5,1997,意大利,"罗伯托·贝尼尼 Roberto Benigni   主演: 罗伯托·贝尼尼 Roberto Beni...
+                            1997",剧情 喜剧 爱情 战争,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.jpg,posters\006_美丽人生.jpg
+7,https://movie.douban.com/subject/1889243/,星际穿越,9.4,2014,美国 英国 加拿大,"克里斯托弗·诺兰 Christopher Nolan   主演: 马修·麦康纳 Matthew Mc...
+                            2014",剧情 科幻 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg,posters\007_星际穿越.jpg
+8,https://movie.douban.com/subject/1295644/,这个杀手不太冷,9.4,1994,法国 美国,吕克·贝松 Luc Besson   主演: 让·雷诺 Jean Reno,剧情 动作 犯罪,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913554676.jpg,posters\008_这个杀手不太冷.jpg
+9,https://movie.douban.com/subject/3541415/,盗梦空间,9.4,2010,美国 英国,"克里斯托弗·诺兰 Christopher Nolan   主演: 莱昂纳多·迪卡普里奥 Le...
+                            2010",剧情 科幻 悬疑 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg,posters\009_盗梦空间.jpg
+10,https://movie.douban.com/subject/1292064/,楚门的世界,9.4,1998,美国,彼得·威尔 Peter Weir   主演: 金·凯瑞 Jim Carrey,剧情 科幻,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg,posters\010_楚门的世界.jpg
+11,https://movie.douban.com/subject/1295124/,辛德勒的名单,9.5,1993,美国,"史蒂文·斯皮尔伯格 Steven Spielberg   主演: 连姆·尼森 Liam Neeson...
+                            1993",剧情 历史 战争,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg,posters\011_辛德勒的名单.jpg
+12,https://movie.douban.com/subject/3011091/,忠犬八公的故事,9.4,2009,美国 英国,"莱塞·霍尔斯道姆 Lasse Hallström   主演: 理查·基尔 Richard Ger...
+                            2009",剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.jpg,posters\012_忠犬八公的故事.jpg
+13,https://movie.douban.com/subject/1292001/,海上钢琴师,9.3,1998,意大利,朱塞佩·托纳多雷 Giuseppe Tornatore   主演: 蒂姆·罗斯 Tim Roth,剧情 音乐,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914698334.jpg,posters\013_海上钢琴师.jpg
+14,https://movie.douban.com/subject/25662329/,疯狂动物城,9.3,2016,美国,拜伦·霍华德 Byron Howard,喜剧 动画 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924128964.jpg,posters\014_疯狂动物城.jpg
+15,https://movie.douban.com/subject/3793023/,三傻大闹宝莱坞,9.2,2009,印度,拉库马·希拉尼 Rajkumar Hirani   主演: 阿米尔·汗 Aamir Khan,剧情 喜剧 爱情 歌舞,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg,posters\015_三傻大闹宝莱坞.jpg
+16,https://movie.douban.com/subject/2131459/,机器人总动员,9.3,2008,美国,安德鲁·斯坦顿 Andrew Stanton   主演: 本·贝尔特 Ben Burtt,科幻 动画 冒险,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg,posters\016_机器人总动员.jpg
+17,https://movie.douban.com/subject/1291549/,放牛班的春天,9.3,2004,法国 瑞士 德国,"克里斯托夫·巴拉蒂 Christophe Barratier   主演: 让-巴蒂斯特·莫尼...
+                            2004",剧情 音乐,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.jpg,posters\017_放牛班的春天.jpg
+18,https://movie.douban.com/subject/1307914/,无间道,9.3,2002,中国香港,刘伟强,剧情 犯罪 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.jpg,posters\018_无间道.jpg
+19,https://movie.douban.com/subject/1296141/,控方证人,9.6,1957,美国,比利·怀尔德 Billy Wilder   主演: 泰隆·鲍华 Tyrone Power,剧情 犯罪 悬疑 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927451337.jpg,posters\019_控方证人.jpg
+20,https://movie.douban.com/subject/1292213/,大话西游之大圣娶亲,9.2,1995,中国香港 中国大陆,刘镇伟 Jeffrey Lau   主演: 周星驰 Stephen Chow,喜剧 爱情 奇幻 古装,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg,posters\020_大话西游之大圣娶亲.jpg
+21,https://movie.douban.com/subject/5912992/,熔炉,9.3,2011,韩国,黄东赫 Dong-hyuk Hwang   主演: 孔侑 Yoo Gong,剧情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg,posters\021_熔炉.jpg
+22,https://movie.douban.com/subject/20495023/,寻梦环游记,9.1,2017,美国,李·昂克里奇 Lee Unkrich,喜剧 动画 奇幻 音乐,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505426431.jpg,posters\022_寻梦环游记.jpg
+23,https://movie.douban.com/subject/6786002/,触不可及,9.3,2011,法国,奥利维·那卡什 Olivier Nakache,剧情 喜剧,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg,posters\023_触不可及.jpg
+24,https://movie.douban.com/subject/1291841/,教父,9.3,1972,美国,"弗朗西斯·福特·科波拉 Francis Ford Coppola   主演: 马龙·白兰度 M...
+                            1972",剧情 犯罪,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg,posters\024_教父.jpg
+25,https://movie.douban.com/subject/1849031/,当幸福来敲门,9.1,2006,美国,"加布里尔·穆奇诺 Gabriele Muccino   主演: 威尔·史密斯 Will Smith ...
+                            2006",剧情 传记 家庭,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1312700628.jpg,posters\025_当幸福来敲门.jpg
+26,https://movie.douban.com/subject/1293172/,末代皇帝,9.3,1987,英国 意大利 中国大陆 法国,贝纳尔多·贝托鲁奇 Bernardo Bertolucci   主演: 尊龙 John Lone,剧情 传记 历史,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg,posters\026_末代皇帝.jpg
+27,https://movie.douban.com/subject/1295038/,哈利·波特与魔法石,9.2,2001,美国 英国,Chris Columbus   主演: Daniel Radcliffe,奇幻 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913781448.jpg,posters\027_哈利·波特与魔法石.jpg
+28,https://movie.douban.com/subject/1291560/,龙猫,9.2,1988,日本,宫崎骏 Hayao Miyazaki   主演: 日高法子 Noriko Hidaka,动画 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg,posters\028_龙猫.jpg
+29,https://movie.douban.com/subject/1292365/,活着,9.3,1994,中国大陆 中国香港,张艺谋 Yimou Zhang   主演: 葛优 You Ge,剧情 历史 家庭,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2597919477.jpg,posters\029_活着.jpg
+30,https://movie.douban.com/subject/3319755/,怦然心动,9.1,2010,美国,罗伯·莱纳 Rob Reiner   主演: 玛德琳·卡罗尔 Madeline Carroll,剧情 喜剧 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg,posters\030_怦然心动.jpg
+31,https://movie.douban.com/subject/1851857/,蝙蝠侠：黑暗骑士,9.2,2008,美国 英国,"克里斯托弗·诺兰 Christopher Nolan   主演: 克里斯蒂安·贝尔 Christ...
+                            2008",剧情 动作 科幻 犯罪 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg,posters\031_蝙蝠侠：黑暗骑士.jpg
+32,https://movie.douban.com/subject/1291552/,指环王3：王者无敌,9.3,2003,美国 新西兰,彼得·杰克逊 Peter Jackson   主演: 伊利亚·伍德 Elijah Wood,剧情 动作 奇幻 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2642829472.jpg,posters\032_指环王3：王者无敌.jpg
+33,https://movie.douban.com/subject/26752088/,我不是药神,9.0,2018,中国大陆,文牧野 Muye Wen   主演: 徐峥 Zheng Xu,剧情 喜剧,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561305376.jpg,posters\033_我不是药神.jpg
+34,https://movie.douban.com/subject/1300267/,乱世佳人,9.3,1939,美国,维克多·弗莱明 Victor Fleming,剧情 历史 爱情 战争,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg,posters\034_乱世佳人.jpg
+35,https://movie.douban.com/subject/2129039/,飞屋环游记,9.1,2009,美国,彼特·道格特 Pete Docter,剧情 喜剧 动画 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553594918.jpg,posters\035_飞屋环游记.jpg
+36,https://movie.douban.com/subject/3742360/,让子弹飞,9.0,2010,中国大陆 中国香港,姜文 Wen Jiang   主演: 姜文 Wen Jiang,剧情 喜剧 动作 西部,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg,posters\036_让子弹飞.jpg
+37,https://movie.douban.com/subject/1308807/,哈尔的移动城堡,9.1,2004,日本,宫崎骏 Hayao Miyazaki   主演: 倍赏千惠子 Chieko Baishô,爱情 动画 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907583906.jpg,posters\037_哈尔的移动城堡.jpg
+38,https://movie.douban.com/subject/1293182/,十二怒汉,9.4,1957,美国,西德尼·吕美特 Sidney Lumet   主演: 亨利·方达 Henry Fonda,剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg,posters\038_十二怒汉.jpg
+39,https://movie.douban.com/subject/25958717/,海蒂和爷爷,9.3,2015,德国 瑞士,阿兰·葛斯彭纳 Alain Gsponer   主演: 阿努克·斯特芬 Anuk Steffen,剧情 冒险 家庭,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554525534.jpg,posters\039_海蒂和爷爷.jpg
+40,https://movie.douban.com/subject/21937452/,素媛,9.3,2013,韩国,李濬益 Jun-ik Lee   主演: 薛景求 Kyung-gu Sol,剧情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg,posters\040_素媛.jpg
+41,https://movie.douban.com/subject/1305487/,猫鼠游戏,9.1,2002,美国 加拿大,"史蒂文·斯皮尔伯格 Steven Spielberg   主演: 莱昂纳多·迪卡普里奥 L...
+                            2002",传记 犯罪 剧情,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg,posters\041_猫鼠游戏.jpg
+42,https://movie.douban.com/subject/1291583/,天空之城,9.2,1986,日本,宫崎骏 Hayao Miyazaki   主演: 田中真弓 Mayumi Tanaka,动画 奇幻 冒险,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892409201.jpg,posters\042_天空之城.jpg
+43,https://movie.douban.com/subject/1291858/,鬼子来了,9.3,2000,中国大陆,姜文 Wen Jiang   主演: 姜文 Wen Jiang,剧情 喜剧,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg,posters\043_鬼子来了.jpg
+44,https://movie.douban.com/subject/26387939/,摔跤吧！爸爸,9.0,2016,印度,涅提·蒂瓦里 Nitesh Tiwari   主演: 阿米尔·汗 Aamir Khan,剧情 传记 运动 家庭,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg,posters\044_摔跤吧！爸爸.jpg
+45,https://movie.douban.com/subject/1929463/,少年派的奇幻漂流,9.1,2012,美国 中国台湾 英国 加拿大,李安 Ang Lee   主演: 苏拉·沙玛 Suraj Sharma,剧情 奇幻 冒险,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg,posters\045_少年派的奇幻漂流.jpg
+46,https://movie.douban.com/subject/1296736/,钢琴家,9.3,2002,英国 法国 波兰 德国 美国,"罗曼·波兰斯基 Roman Polanski   主演: 艾德里安·布洛迪 Adrien Brod...
+                            2002",剧情 传记 战争 音乐,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1381339291.jpg,posters\046_钢琴家.jpg
+47,https://movie.douban.com/subject/1291572/,指环王2：双塔奇兵,9.2,2002,美国 新西兰,彼得·杰克逊 Peter Jackson   主演: 伊利亚·伍德 Elijah Wood,剧情 动作 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2640236255.jpg,posters\047_指环王2：双塔奇兵.jpg
+48,https://movie.douban.com/subject/1291548/,死亡诗社,9.2,1989,美国,彼得·威尔 Peter Weir   主演: 罗宾·威廉姆斯 Robin Williams,剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575465690.jpg,posters\048_死亡诗社.jpg
+49,https://movie.douban.com/subject/1299398/,大话西游之月光宝盒,9.0,1995,中国香港 中国大陆,刘镇伟 Jeffrey Lau   主演: 周星驰 Stephen Chow,喜剧 爱情 奇幻 古装,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg,posters\049_大话西游之月光宝盒.jpg
+50,https://movie.douban.com/subject/30170448/,何以为家,9.1,2018,黎巴嫩 美国 法国 塞浦路斯 卡塔尔 英国,娜丁·拉巴基 Nadine Labaki   主演: 扎因·拉费阿 Zain al-Rafeea,剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555295759.jpg,posters\050_何以为家.jpg
+51,https://movie.douban.com/subject/27060077/,绿皮书,8.9,2018,美国 中国大陆,彼得·法雷里 Peter Farrelly   主演: 维果·莫腾森 Viggo Mortensen,剧情 喜剧 传记 音乐,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531065411.jpg,posters\051_绿皮书.jpg
+52,https://movie.douban.com/subject/1298624/,闻香识女人,9.1,1992,美国,马丁·布莱斯 Martin Brest   主演: 阿尔·帕西诺 Al Pacino,剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550757929.jpg,posters\052_闻香识女人.jpg
+53,https://movie.douban.com/subject/1418019/,大闹天宫,9.4,1961,(中国大陆),万籁鸣 Laiming Wan   主演: 邱岳峰 Yuefeng Qiu,"(中国大陆),(中国大陆),中国大陆,剧情 动画 奇幻 古装",https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg,posters\053_大闹天宫.jpg
+54,https://movie.douban.com/subject/1291843/,黑客帝国,9.1,1999,美国,安迪·沃卓斯基 Andy Wachowski,动作 科幻,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg,posters\054_黑客帝国.jpg
+55,https://movie.douban.com/subject/1291571/,指环王1：护戒使者,9.1,2001,新西兰 美国,彼得·杰克逊 Peter Jackson   主演: 伊利亚·伍德 Elijah Wood,剧情 动作 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2197698335.jpg,posters\055_指环王1：护戒使者.jpg
+56,https://movie.douban.com/subject/1293839/,罗马假日,9.1,1953,美国,威廉·惠勒 William Wyler   主演: 奥黛丽·赫本 Audrey Hepburn,喜剧 剧情 爱情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg,posters\056_罗马假日.jpg
+57,https://movie.douban.com/subject/1299131/,教父2,9.3,1974,美国,"弗朗西斯·福特·科波拉 Francis Ford Coppola   主演: 阿尔·帕西诺 A...
+                            1974",剧情 犯罪,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg,posters\057_教父2.jpg
+58,https://movie.douban.com/subject/1301753/,狮子王,9.1,1994,美国,Roger Allers,动画 冒险 歌舞,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p726659067.jpg,posters\058_狮子王.jpg
+59,https://movie.douban.com/subject/1291828/,天堂电影院,9.2,1988,意大利 法国,"朱塞佩·托纳多雷 Giuseppe Tornatore   主演: 菲利普·努瓦雷 Philipp...
+                            1988",剧情 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2653054340.jpg,posters\059_天堂电影院.jpg
+60,https://movie.douban.com/subject/1291818/,饮食男女,9.2,1994,中国台湾 美国,李安 Ang Lee   主演: 郎雄 Sihung Lung,剧情 家庭,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg,posters\060_饮食男女.jpg
+61,https://movie.douban.com/subject/21937445/,辩护人,9.2,2013,韩国,杨宇硕 Woo-seok Yang   主演: 宋康昊 Kang-ho Song,剧情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg,posters\061_辩护人.jpg
+62,https://movie.douban.com/subject/1485260/,本杰明·巴顿奇事,9.0,2008,美国,大卫·芬奇 David Fincher   主演: 布拉德·皮特 Brad Pitt,剧情 爱情 奇幻,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg,posters\062_本杰明·巴顿奇事.jpg
+63,https://movie.douban.com/subject/1292000/,搏击俱乐部,9.0,1999,美国,大卫·芬奇 David Fincher   主演: 爱德华·诺顿 Edward Norton,剧情 动作 悬疑 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910931622.jpg,posters\063_搏击俱乐部.jpg
+64,https://movie.douban.com/subject/1306029/,美丽心灵,9.1,2001,美国,朗·霍华德 Ron Howard   主演: 罗素·克劳 Russell Crowe,传记 剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg,posters\064_美丽心灵.jpg
+65,https://movie.douban.com/subject/3008247/,穿条纹睡衣的男孩,9.2,2008,英国 美国,"马克·赫尔曼 Mark Herman   主演: 阿萨·巴特菲尔德 Asa Butterfield ...
+                            2008",剧情 战争,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg,posters\065_穿条纹睡衣的男孩.jpg
+66,https://movie.douban.com/subject/1292220/,情书,8.9,1995,日本,岩井俊二 Shunji Iwai   主演: 中山美穗 Miho Nakayama,剧情 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2648230660.jpg,posters\066_情书.jpg
+67,https://movie.douban.com/subject/3011235/,哈利·波特与死亡圣器(下),9.0,2011,美国 英国,"大卫·叶茨 David Yates   主演: 丹尼尔·雷德克里夫 Daniel Radcliffe...
+                            2011",奇幻 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913457020.jpg,posters\067_哈利·波特与死亡圣器(下).jpg
+68,https://movie.douban.com/subject/1293350/,两杆大烟枪,9.1,1998,英国,盖·里奇 Guy Ritchie   主演: 杰森·弗莱明 Jason Flemyng,剧情 喜剧 犯罪,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg,posters\068_两杆大烟枪.jpg
+69,https://movie.douban.com/subject/1900841/,窃听风暴,9.2,2006,德国,"弗洛里安·亨克尔·冯·多纳斯马尔克 Florian Henckel von Donnersmarck  &n...
+                            2006",剧情 悬疑,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg,posters\069_窃听风暴.jpg
+70,https://movie.douban.com/subject/1294408/,音乐之声,9.1,1965,美国,罗伯特·怀斯 Robert Wise   主演: 朱莉·安德鲁斯 Julie Andrews,剧情 传记 爱情 歌舞,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg,posters\070_音乐之声.jpg
+71,https://movie.douban.com/subject/1291543/,功夫,8.9,2004,中国大陆 中国香港,周星驰 Stephen Chow   主演: 周星驰 Stephen Chow,动作 喜剧 犯罪 奇幻,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg,posters\071_功夫.jpg
+72,https://movie.douban.com/subject/1292402/,西西里的美丽传说,8.9,2000,意大利 美国,"朱塞佩·托纳多雷 Giuseppe Tornatore   主演: 莫妮卡·贝鲁奇 Monica ...
+                            2000",剧情 战争 情色,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441988159.jpg,posters\072_西西里的美丽传说.jpg
+73,https://movie.douban.com/subject/1291544/,哈利·波特与阿兹卡班的囚徒,9.0,2004,英国 美国,"阿方索·卡隆 Alfonso Cuarón   主演: 丹尼尔·雷德克里夫 Daniel Rad...
+                            2004",奇幻 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913456870.jpg,posters\073_哈利·波特与阿兹卡班的囚徒.jpg
+74,https://movie.douban.com/subject/1652587/,阿凡达,8.8,2009,美国,"詹姆斯·卡梅隆 James Cameron   主演: 萨姆·沃辛顿 Sam Worthington ...
+                            2009",动作 科幻 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg,posters\074_阿凡达.jpg
+75,https://movie.douban.com/subject/26580232/,看不见的客人,8.8,2016,西班牙,奥里奥尔·保罗 Oriol Paulo   主演: 马里奥·卡萨斯 Mario Casas,剧情 犯罪 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg,posters\075_看不见的客人.jpg
+76,https://movie.douban.com/subject/1292849/,拯救大兵瑞恩,9.1,1998,美国,"史蒂文·斯皮尔伯格 Steven Spielberg   主演: 汤姆·汉克斯 Tom Hanks...
+                            1998",剧情 战争,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg,posters\076_拯救大兵瑞恩.jpg
+77,https://movie.douban.com/subject/1293544/,沉默的羔羊,8.9,1991,美国,乔纳森·戴米 Jonathan Demme   主演: 朱迪·福斯特 Jodie Foster,剧情 犯罪 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg,posters\077_沉默的羔羊.jpg
+78,https://movie.douban.com/subject/1303021/,小鞋子,9.2,1997,伊朗,"马基德·马基迪 Majid Majidi   主演: 默罕默德·阿米尔·纳吉 Mohamma...
+                            1997",剧情 儿童 家庭,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2165511465.jpg,posters\078_小鞋子.jpg
+79,https://movie.douban.com/subject/11525673/,布达佩斯大饭店,8.9,2014,美国 德国 英国,韦斯·安德森 Wes Anderson   主演: 拉尔夫·费因斯 Ralph Fiennes,剧情 喜剧 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2183539003.jpg,posters\079_布达佩斯大饭店.jpg
+80,https://movie.douban.com/subject/1292224/,飞越疯人院,9.1,1975,美国,"米洛斯·福尔曼 Miloš Forman   主演: 杰克·尼科尔森 Jack Nichols...
+                            1975",剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg,posters\080_飞越疯人院.jpg
+81,https://movie.douban.com/subject/1292343/,蝴蝶效应,8.9,2004,美国 加拿大,埃里克·布雷斯 Eric Bress,剧情 悬疑 科幻 惊悚,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg,posters\081_蝴蝶效应.jpg
+82,https://movie.douban.com/subject/2334904/,禁闭岛,8.9,2010,美国,Martin Scorsese   主演: 莱昂纳多·迪卡普里奥 Leonardo DiCaprio,剧情 悬疑 惊悚,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p450262388.jpg,posters\082_禁闭岛.jpg
+83,https://movie.douban.com/subject/1292656/,心灵捕手,9.0,1997,美国,格斯·范·桑特 Gus Van Sant   主演: 马特·达蒙 Matt Damon,剧情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg,posters\083_心灵捕手.jpg
+84,https://movie.douban.com/subject/1780330/,致命魔术,8.9,2006,英国 美国,"克里斯托弗·诺兰 Christopher Nolan   主演: 休·杰克曼 Hugh Jackman...
+                            2006",剧情 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg,posters\084_致命魔术.jpg
+85,https://movie.douban.com/subject/36445098/,还有明天,9.3,2023,意大利,"宝拉·柯特莱西 Paola Cortellesi   主演: 宝拉·柯特莱西 Paola Corte...
+                            2023",剧情 喜剧 历史,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918279456.jpg,posters\085_还有明天.jpg
+86,https://movie.douban.com/subject/1291832/,低俗小说,8.9,1994,美国,"昆汀·塔伦蒂诺 Quentin Tarantino   主演: 约翰·特拉沃尔塔 John Tra...
+                            1994",剧情 喜剧 犯罪,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg,posters\086_低俗小说.jpg
+87,https://movie.douban.com/subject/5322596/,超脱,9.0,2011,美国,托尼·凯耶 Tony Kaye   主演: 艾德里安·布洛迪 Adrien Brody,剧情,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg,posters\087_超脱.jpg
+88,https://movie.douban.com/subject/1296996/,哈利·波特与密室,8.9,2002,英国 美国,Chris Columbus   主演: 丹尼尔·雷德克里夫 Daniel Radcliffe,奇幻 冒险,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2913781951.jpg,posters\088_哈利·波特与密室.jpg
+89,https://movie.douban.com/subject/1292434/,一一,9.1,2000,中国台湾 日本,杨德昌 Edward Yang   主演: 吴念真,剧情 爱情 家庭,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924629258.jpg,posters\089_一一.jpg
+90,https://movie.douban.com/subject/1302425/,喜剧之王,8.8,1999,中国香港,周星驰 Stephen Chow,喜剧 剧情 爱情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2618313392.jpg,posters\090_喜剧之王.jpg
+91,https://movie.douban.com/subject/1294371/,摩登时代,9.3,1936,美国,"查理·卓别林 Charles Chaplin   主演: 查理·卓别林 Charles Chaplin ...
+                            1936",剧情 喜剧 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263408369.jpg,posters\091_摩登时代.jpg
+92,https://movie.douban.com/subject/1300299/,杀人回忆,8.9,2003,韩国,奉俊昊 Joon-ho Bong   主演: 宋康昊 Kang-ho Song,剧情 动作 犯罪 悬疑 惊悚,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1633113220.jpg,posters\092_杀人回忆.jpg
+93,https://movie.douban.com/subject/1297192/,致命ID,8.9,2003,美国,詹姆斯·曼高德 James Mangold   主演: 约翰·库萨克 John Cusack,剧情 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558364386.jpg,posters\093_致命ID.jpg
+94,https://movie.douban.com/subject/1292679/,春光乍泄,9.0,1997,中国香港 日本 韩国,王家卫 Kar Wai Wong   主演: 张国荣 Leslie Cheung,剧情 爱情 同性,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg,posters\094_春光乍泄.jpg
+95,https://movie.douban.com/subject/1298070/,加勒比海盗,8.8,2003,美国,戈尔·维宾斯基 Gore Verbinski   主演: 约翰尼·德普 Johnny Depp,动作 冒险 奇幻,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg,posters\095_加勒比海盗.jpg
+96,https://movie.douban.com/subject/3442220/,海豚湾,9.3,2009,美国,"路易·西霍尤斯 Louie Psihoyos   主演: 路易·西霍尤斯 Louie Psihoyo...
+                            2009",纪录片,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559579779.jpg,posters\096_海豚湾.jpg
+97,https://movie.douban.com/subject/1292262/,美国往事,9.1,1984,美国 意大利,"赛尔乔·莱翁内 Sergio Leone   主演: 罗伯特·德尼罗 Robert De Niro ...
+                            1984",犯罪 剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg,posters\097_美国往事.jpg
+98,https://movie.douban.com/subject/1865703/,红辣椒,9.0,2006,日本,今敏 Satoshi Kon   主演: 林原惠美 Megumi Hayashibara,动画 悬疑 科幻 惊悚,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2794776839.jpg,posters\098_红辣椒.jpg
+99,https://movie.douban.com/subject/1292223/,七宗罪,8.8,1995,美国,大卫·芬奇 David Fincher   主演: 摩根·弗里曼 Morgan Freeman,剧情 犯罪 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg,posters\099_七宗罪.jpg
+100,https://movie.douban.com/subject/1306249/,唐伯虎点秋香,8.8,1993,中国香港,李力持 Lik-Chi Lee   主演: 周星驰 Stephen Chow,喜剧 爱情 古装,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357915564.jpg,posters\100_唐伯虎点秋香.jpg
+101,https://movie.douban.com/subject/6985810/,狩猎,9.1,2012,丹麦 瑞典,"托马斯·温特伯格 Thomas Vinterberg   主演: 麦斯·米科尔森 Mads Mik...
+                            2012",剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg,posters\101_狩猎.jpg
+102,https://movie.douban.com/subject/1297359/,幽灵公主,8.9,1997,日本,宫崎骏 Hayao Miyazaki   主演: 松田洋治 Yôji Matsuda,动画 奇幻 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920895053.jpg,posters\102_幽灵公主.jpg
+103,https://movie.douban.com/subject/1305164/,甜蜜蜜,8.9,1996,中国香港,陈可辛 Peter Chan   主演: 黎明 Leon Lai,剧情 爱情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2223011274.jpg,posters\103_甜蜜蜜.jpg
+104,https://movie.douban.com/subject/27010768/,寄生虫,8.8,2019,韩国,奉俊昊 Joon-ho Bong   主演: 宋康昊 Kang-ho Song,剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561439800.jpg,posters\104_寄生虫.jpg
+105,https://movie.douban.com/subject/3395373/,蝙蝠侠：黑暗骑士崛起,8.9,2012,美国 英国,"克里斯托弗·诺兰 Christopher Nolan   主演: 克里斯蒂安·贝尔 Christ...
+                            2012",剧情 动作 科幻 犯罪 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg,posters\105_蝙蝠侠：黑暗骑士崛起.jpg
+106,https://movie.douban.com/subject/1428581/,天书奇谭,9.2,1983,(中国大陆),王树忱 Shuchen Wang,"中国大陆,动画 奇幻",https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2700138245.jpg,posters\106_天书奇谭.jpg
+107,https://movie.douban.com/subject/10777687/,7号房的礼物,8.9,2013,韩国,李焕庆 Hwan-kyeong Lee   主演: 柳承龙 Seung-yong Ryoo,剧情 喜剧 家庭,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg,posters\107_7号房的礼物.jpg
+108,https://movie.douban.com/subject/11026735/,超能陆战队,8.8,2014,美国,唐·霍尔 Don Hall,喜剧 动作 科幻 动画 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2224568669.jpg,posters\108_超能陆战队.jpg
+109,https://movie.douban.com/subject/1297630/,第六感,8.9,1999,美国,"M·奈特·沙马兰 M. Night Shyamalan   主演: 布鲁斯·威利斯 Bruce Wi...
+                            1999",剧情 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg,posters\109_第六感.jpg
+110,https://movie.douban.com/subject/1296339/,爱在黎明破晓前,8.8,1995,美国 奥地利 瑞士,"理查德·林克莱特 Richard Linklater   主演: 伊桑·霍克 Ethan Hawke ...
+                            1995",剧情 爱情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555762374.jpg,posters\110_爱在黎明破晓前.jpg
+111,https://movie.douban.com/subject/1291990/,爱在日落黄昏时,8.9,2004,美国 法国,"理查德·林克莱特 Richard Linklater   主演: 伊桑·霍克 Ethan Hawke ...
+                            2004",剧情 爱情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2191788134.jpg,posters\111_爱在日落黄昏时.jpg
+112,https://movie.douban.com/subject/1461403/,茶馆,9.6,1982,(中国大陆),谢添 Tian Xie   主演: 于是之 Shizhi Yu,"中国大陆,剧情 历史",https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528965424.jpg,posters\112_茶馆.jpg
+113,https://movie.douban.com/subject/1787291/,被嫌弃的松子的一生,8.8,2006,日本,中岛哲也 Tetsuya Nakashima   主演: 中谷美纪 Miki Nakatani,剧情 歌舞,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p884763596.jpg,posters\113_被嫌弃的松子的一生.jpg
+114,https://movie.douban.com/subject/1291999/,重庆森林,8.8,1994,中国香港,王家卫 Kar Wai Wong   主演: 林青霞 Brigitte Lin,剧情 爱情,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg,posters\114_重庆森林.jpg
+115,https://movie.douban.com/subject/1309055/,哈利·波特与火焰杯,8.8,2005,英国 美国,"迈克·内威尔 Mike Newell   主演: 丹尼尔·雷德克里夫 Daniel Radclif...
+                            2005",悬疑 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913456904.jpg,posters\115_哈利·波特与火焰杯.jpg
+116,https://movie.douban.com/subject/1395091/,未麻的部屋,9.1,1997,日本,今敏 Satoshi Kon   主演: 岩男润子 Junko Iwao,剧情 犯罪 动画 悬疑 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg,posters\116_未麻的部屋.jpg
+117,https://movie.douban.com/subject/10533913/,头脑特工队,8.8,2015,美国,彼特·道格特 Pete Docter,喜剧 动画 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2874927470.jpg,posters\117_头脑特工队.jpg
+118,https://movie.douban.com/subject/4202302/,借东西的小人阿莉埃蒂,8.9,2010,日本,米林宏昌 Hiromasa Yonebayashi   主演: 志田未来 Mirai Shida,动画 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p617533616.jpg,posters\118_借东西的小人阿莉埃蒂.jpg
+119,https://movie.douban.com/subject/2149806/,入殓师,8.9,2008,日本,泷田洋二郎 Yôjirô Takita   主演: 本木雅弘 Masahiro Motoki,剧情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2707581855.jpg,posters\119_入殓师.jpg
+120,https://movie.douban.com/subject/1293359/,菊次郎的夏天,8.9,1999,日本,北野武 Takeshi Kitano   主演: 北野武 Takeshi Kitano,剧情 喜剧,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620392435.jpg,posters\120_菊次郎的夏天.jpg
+121,https://movie.douban.com/subject/1292370/,剪刀手爱德华,8.7,1990,美国,蒂姆·波顿 Tim Burton   主演: 约翰尼·德普 Johnny Depp,剧情 爱情 奇幻,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg,posters\121_剪刀手爱德华.jpg
+122,https://movie.douban.com/subject/1418834/,断背山,8.8,2005,美国 加拿大,李安 Ang Lee   主演: 希斯·莱杰 Heath Ledger,剧情 爱情 同性 家庭,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2169104127.jpg,posters\122_断背山.jpg
+123,https://movie.douban.com/subject/1294639/,勇敢的心,8.9,1995,美国,梅尔·吉布森 Mel Gibson   主演: 梅尔·吉布森 Mel Gibson,动作 传记 剧情 历史 战争,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2004174709.jpg,posters\123_勇敢的心.jpg
+124,https://movie.douban.com/subject/10577869/,时空恋旅人,8.8,2013,英国 美国,"理查德·柯蒂斯 Richard Curtis   主演: 多姆纳尔·格里森 Domhnall Gl...
+                            2013",喜剧 爱情 奇幻,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg,posters\124_时空恋旅人.jpg
+125,https://movie.douban.com/subject/21318488/,消失的爱人,8.7,2014,美国,大卫·芬奇 David Fincher   主演: 本·阿弗莱克 Ben Affleck,剧情 犯罪 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg,posters\125_消失的爱人.jpg
+126,https://movie.douban.com/subject/1297447/,倩女幽魂,8.8,1987,中国香港,程小东 Siu-Tung Ching   主演: 张国荣 Leslie Cheung,爱情 奇幻 武侠 古装,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918554634.jpg,posters\126_倩女幽魂.jpg
+127,https://movie.douban.com/subject/1292337/,无人知晓,9.1,2004,日本,是枝裕和 Hirokazu Koreeda   主演: 柳乐优弥 Yûya Yagira,剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg,posters\127_无人知晓.jpg
+128,https://movie.douban.com/subject/2353023/,驯龙高手,8.8,2010,美国,迪恩·德布洛斯 Dean DeBlois,动画 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2210954024.jpg,posters\128_驯龙高手.jpg
+129,https://movie.douban.com/subject/1291557/,花样年华,8.8,2000,中国香港,王家卫 Kar Wai Wong   主演: 张曼玉 Maggie Cheung,剧情 爱情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918312477.jpg,posters\129_花样年华.jpg
+130,https://movie.douban.com/subject/1418200/,傲慢与偏见,8.7,2005,法国 英国 美国,乔·怀特 Joe Wright   主演: 凯拉·奈特莉 Keira Knightley,剧情 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2016401659.jpg,posters\130_傲慢与偏见.jpg
+131,https://movie.douban.com/subject/10437779/,新世界,8.9,2013,韩国,朴勋政 Hoon-jung Park   主演: 李政宰 Jung-Jae Lee,剧情 犯罪,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1903379979.jpg,posters\131_新世界.jpg
+132,https://movie.douban.com/subject/1300992/,完美的世界,9.1,1993,美国,"克林特·伊斯特伍德 Clint Eastwood   主演: 凯文·科斯特纳 Kevin Cos...
+                            1993",剧情 犯罪,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg,posters\132_完美的世界.jpg
+133,https://movie.douban.com/subject/1858711/,玩具总动员3,8.9,2010,美国,李·昂克里奇 Lee Unkrich   主演: 汤姆·汉克斯 Tom Hanks,喜剧 动画 奇幻 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg,posters\133_玩具总动员3.jpg
+134,https://movie.douban.com/subject/26628357/,一个叫欧维的男人决定去死,8.9,2015,瑞典,"汉内斯·赫尔姆 Hannes Holm   主演: 罗夫·拉斯加德 Rolf Lassgård...
+                            2015",剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg,posters\134_一个叫欧维的男人决定去死.jpg
+135,https://movie.douban.com/subject/1291875/,阳光灿烂的日子,8.8,1994,中国大陆 中国香港,姜文 Wen Jiang   主演: 夏雨 Yu Xia,剧情 爱情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564685215.jpg,posters\135_阳光灿烂的日子.jpg
+136,https://movie.douban.com/subject/25814705/,小森林 夏秋篇,9.0,2014,日本,森淳一 Junichi Mori   主演: 桥本爱 Ai Hashimoto,剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2232317770.jpg,posters\136_小森林 夏秋篇.jpg
+137,https://movie.douban.com/subject/1292215/,天使爱美丽,8.7,2001,法国 德国,"让-皮埃尔·热内 Jean-Pierre Jeunet   主演: 奥黛丽·塔图 Audrey Tau...
+                            2001",剧情 喜剧 爱情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2447590313.jpg,posters\137_天使爱美丽.jpg
+138,https://movie.douban.com/subject/1291579/,怪兽电力公司,8.8,2001,美国,彼特·道格特 Pete Docter,儿童 喜剧 动画 奇幻 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513247938.jpg,posters\138_怪兽电力公司.jpg
+139,https://movie.douban.com/subject/1828115/,色，戒,8.7,2007,中国台湾 中国大陆 美国 中国香港,李安 Ang Lee   主演: 梁朝伟 Tony Leung Chiu Wai,剧情 爱情 情色,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453716305.jpg,posters\139_色，戒.jpg
+140,https://movie.douban.com/subject/1294240/,教父3,9.0,1990,美国,"弗朗西斯·福特·科波拉 Francis Ford Coppola   主演: 阿尔·帕西诺 A...
+                            1990",剧情 犯罪,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg,posters\140_教父3.jpg
+141,https://movie.douban.com/subject/1297052/,侧耳倾听,8.9,1995,日本,近藤喜文 Yoshifumi Kondo   主演: 本名阳子 Youko Honna,剧情 爱情 动画,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456692072.jpg,posters\141_侧耳倾听.jpg
+142,https://movie.douban.com/subject/1307315/,哪吒闹海,9.2,1979,中国大陆,王树忱 Shuchen Wang,冒险 动画 奇幻,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532803206.jpg,posters\142_哪吒闹海.jpg
+143,https://movie.douban.com/subject/26799731/,请以你的名字呼唤我,8.8,2017,意大利 法国 巴西 美国,卢卡·瓜达尼诺 Luca Guadagnino   主演: 艾米·汉莫 Armie Hammer,剧情 爱情 同性,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg,posters\143_请以你的名字呼唤我.jpg
+144,https://movie.douban.com/subject/1292274/,幸福终点站,8.8,2004,美国,"史蒂文·斯皮尔伯格 Steven Spielberg   主演: 汤姆·汉克斯 Tom Hanks...
+                            2004",喜剧 剧情 爱情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2181698213.jpg,posters\144_幸福终点站.jpg
+145,https://movie.douban.com/subject/1297518/,九品芝麻官,8.8,1994,中国香港,王晶 Jing Wong   主演: 周星驰 Stephen Chow,剧情 喜剧 古装,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p648370300.jpg,posters\145_九品芝麻官.jpg
+146,https://movie.douban.com/subject/6307447/,被解救的姜戈,8.8,2012,美国,昆汀·塔伦蒂诺 Quentin Tarantino   主演: 杰米·福克斯 Jamie Foxx,剧情 动作 西部 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1800813767.jpg,posters\146_被解救的姜戈.jpg
+147,https://movie.douban.com/subject/25986180/,釜山行,8.6,2016,韩国,延尚昊 Sang-ho Yeon   主演: 孔刘 Yoo Gong,动作 惊悚 灾难,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2360940399.jpg,posters\147_釜山行.jpg
+148,https://movie.douban.com/subject/3287562/,神偷奶爸,8.7,2010,美国 法国,皮艾尔·柯芬 Pierre Coffin,喜剧 动画 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg,posters\148_神偷奶爸.jpg
+149,https://movie.douban.com/subject/25814707/,小森林 冬春篇,9.0,2015,日本,森淳一 Junichi Mori   主演: 桥本爱 Ai Hashimoto,剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2258078370.jpg,posters\149_小森林 冬春篇.jpg
+150,https://movie.douban.com/subject/1303037/,喜宴,9.0,1993,中国台湾 美国,李安 Ang Lee   主演: 赵文瑄 Winston Chao,剧情 喜剧 爱情 同性 家庭,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2249048907.jpg,posters\150_喜宴.jpg
+151,https://movie.douban.com/subject/5989818/,萤火之森,8.8,2011,日本,大森贵弘 Takahiro Omori   主演: 佐仓绫音 Ayane Sakura,剧情 爱情 动画 奇幻,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1675053073.jpg,posters\151_萤火之森.jpg
+152,https://movie.douban.com/subject/4268598/,告白,8.8,2010,日本,中岛哲也 Tetsuya Nakashima   主演: 松隆子 Takako Matsu,剧情 悬疑,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg,posters\152_告白.jpg
+153,https://movie.douban.com/subject/3072124/,玛丽和麦克斯,9.0,2009,澳大利亚 美国,亚当·艾略特 Adam Elliot   主演: 托妮·科莱特 Toni Collette,剧情 喜剧 动画,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923412445.jpg,posters\153_玛丽和麦克斯.jpg
+154,https://movie.douban.com/subject/1295399/,七武士,9.3,1954,日本,黑泽明 Akira Kurosawa   主演: 三船敏郎 Toshirô Mifune,动作 冒险 剧情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215886505.jpg,posters\154_七武士.jpg
+155,https://movie.douban.com/subject/4920389/,头号玩家,8.6,2018,美国,"史蒂文·斯皮尔伯格 Steven Spielberg   主演: 泰伊·谢里丹 Tye Sheri...
+                            2018",动作 科幻 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg,posters\155_头号玩家.jpg
+156,https://movie.douban.com/subject/10463953/,模仿游戏,8.8,2014,英国 美国,"莫滕·泰杜姆 Morten Tyldum   主演: 本尼迪克特·康伯巴奇 Benedict C...
+                            2014",剧情 传记 战争 同性,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922986728.jpg,posters\156_模仿游戏.jpg
+157,https://movie.douban.com/subject/1291545/,大鱼,8.8,2003,美国,蒂姆·波顿 Tim Burton   主演: 伊万·麦克格雷格 Ewan McGregor,剧情 爱情 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p692813374.jpg,posters\157_大鱼.jpg
+158,https://movie.douban.com/subject/1293181/,惊魂记,9.0,1960,美国,"阿尔弗雷德·希区柯克 Alfred Hitchcock   主演: 安东尼·博金斯 Antho...
+                            1960",悬疑 惊悚 恐怖,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg,posters\158_惊魂记.jpg
+159,https://movie.douban.com/subject/1316510/,射雕英雄传之东成西就,8.7,1993,中国香港,刘镇伟 Jeffrey Lau   主演: 梁朝伟 Tony Leung Chiu Wai,喜剧 奇幻 武侠 古装,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2609063922.jpg,posters\159_射雕英雄传之东成西就.jpg
+160,https://movie.douban.com/subject/26325320/,血战钢锯岭,8.7,2016,澳大利亚 美国,梅尔·吉布森 Mel Gibson   主演: 安德鲁·加菲尔德 Andrew Garfield,剧情 传记 历史 战争,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg,posters\160_血战钢锯岭.jpg
+161,https://movie.douban.com/subject/26683290/,你的名字。,8.5,2016,日本,新海诚 Makoto Shinkai   主演: 神木隆之介 Ryûnosuke Kamiki,剧情 爱情 动画,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2910701461.jpg,posters\161_你的名字。.jpg
+162,https://movie.douban.com/subject/24733428/,心灵奇旅,8.7,2020,美国,彼特·道格特 Pete Docter,动画 奇幻 音乐,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2595591069.jpg,posters\162_心灵奇旅.jpg
+163,https://movie.douban.com/subject/1307856/,背靠背，脸对脸,9.5,1994,中国大陆 中国香港,黄建新 Jianxin Huang,剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505048077.jpg,posters\163_背靠背，脸对脸.jpg
+164,https://movie.douban.com/subject/1306861/,我是山姆,9.0,2001,美国,杰茜·尼尔森 Jessie Nelson   主演: Sean Penn,剧情 家庭,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg,posters\164_我是山姆.jpg
+165,https://movie.douban.com/subject/4917726/,阳光姐妹淘,8.8,2011,韩国,姜炯哲 Hyeong-Cheol Kang   主演: 沈恩京 Eun-kyung Shim,剧情 喜剧,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg,posters\165_阳光姐妹淘.jpg
+166,https://movie.douban.com/subject/21360417/,恐怖直播,8.7,2013,韩国,金秉祐 Byeong-woo Kim   主演: 河正宇 Jung-woo Ha,剧情 犯罪 悬疑,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg,posters\166_恐怖直播.jpg
+167,https://movie.douban.com/subject/1302467/,黑客帝国3：矩阵革命,8.8,2003,美国,拉娜·沃卓斯基 Lana Wachowski,动作 科幻,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg,posters\167_黑客帝国3：矩阵革命.jpg
+168,https://movie.douban.com/subject/27119724/,小丑,8.7,2019,美国 加拿大,"托德·菲利普斯 Todd Phillips   主演: 杰昆·菲尼克斯 Joaquin Phoeni...
+                            2019",剧情 犯罪 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567198874.jpg,posters\168_小丑.jpg
+169,https://movie.douban.com/subject/26611804/,三块广告牌,8.7,2017,英国 美国,"马丁·麦克唐纳 Martin McDonagh   主演: 弗兰西斯·麦克多蒙德 France...
+                            2017",剧情 犯罪,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502943384.jpg,posters\169_三块广告牌.jpg
+170,https://movie.douban.com/subject/1417598/,电锯惊魂,8.7,2004,美国,詹姆斯·温 James Wan   主演: 雷·沃纳尔 Leigh Whannell,悬疑 惊悚 恐怖,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p726839485.jpg,posters\170_电锯惊魂.jpg
+171,https://movie.douban.com/subject/1578507/,谍影重重3,8.9,2007,美国 德国 法国 英国,保罗·格林格拉斯 Paul Greengrass   主演: 马特·达蒙 Matt Damon,动作 悬疑 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg,posters\171_谍影重重3.jpg
+172,https://movie.douban.com/subject/1793929/,达拉斯买家俱乐部,8.8,2013,美国,"让-马克·瓦雷 Jean-Marc Vallée   主演: 马修·麦康纳 Matthew McCon...
+                            2013",剧情 传记 同性,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg,posters\172_达拉斯买家俱乐部.jpg
+173,https://movie.douban.com/subject/1307106/,无间道2,8.8,2003,中国香港,刘伟强 Andrew Lau,剧情 犯罪 惊悚,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p958008320.jpg,posters\173_无间道2.jpg
+174,https://movie.douban.com/subject/1907966/,疯狂原始人,8.7,2013,美国,科克·德·米科 Kirk De Micco,喜剧 动画 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg,posters\174_疯狂原始人.jpg
+175,https://movie.douban.com/subject/1291992/,末路狂花,9.0,1991,美国 英国 法国,雷德利·斯科特 Ridley Scott   主演: 吉娜·戴维斯 Geena Davis,犯罪 剧情 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910924635.jpg,posters\175_末路狂花.jpg
+176,https://movie.douban.com/subject/1422283/,高山下的花环,9.5,1984,(中国大陆),谢晋 Jin Xie   主演: 吕晓禾 Xiaohe Lü,"中国大陆,剧情 战争",https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2319879389.jpg,posters\176_高山下的花环.jpg
+177,https://movie.douban.com/subject/1300374/,绿里奇迹,8.9,1999,美国,弗兰克·德拉邦特 Frank Darabont   主演: 汤姆·汉克斯 Tom Hanks,犯罪 剧情 奇幻 悬疑,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg,posters\177_绿里奇迹.jpg
+178,https://movie.douban.com/subject/10808442/,爱在午夜降临前,8.9,2013,美国 希腊,"理查德·林克莱特 Richard Linklater   主演: 伊桑·霍克 Ethan Hawke ...
+                            2013",剧情 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2074715729.jpg,posters\178_爱在午夜降临前.jpg
+179,https://movie.douban.com/subject/35426925/,机器人之梦,9.1,2023,西班牙 法国,"巴勃罗·贝格尔 Pablo Berger   主演: 伊万·拉班达 Ivan Labanda
+                            2023",剧情 动画 音乐,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928203369.jpg,posters\179_机器人之梦.jpg
+180,https://movie.douban.com/subject/25895901/,海街日记,8.8,2015,日本,是枝裕和 Hirokazu Koreeda   主演: 绫濑遥 Haruka Ayase,剧情 家庭,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg,posters\180_海街日记.jpg
+181,https://movie.douban.com/subject/1862151/,疯狂的石头,8.6,2006,中国大陆 中国香港,宁浩 Hao Ning   主演: 郭涛 Tao Guo,喜剧 犯罪,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p712241453.jpg,posters\181_疯狂的石头.jpg
+182,https://movie.douban.com/subject/1293460/,雨中曲,9.1,1952,美国,斯坦利·多南 Stanley Donen,喜剧 歌舞 爱情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg,posters\182_雨中曲.jpg
+183,https://movie.douban.com/subject/1291585/,风之谷,8.9,1984,日本,宫崎骏 Hayao Miyazaki   主演: 岛本须美 Sumi Shimamoto,动画 奇幻 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg,posters\183_风之谷.jpg
+184,https://movie.douban.com/subject/1292226/,2001太空漫游,8.9,1968,英国 美国,斯坦利·库布里克 Stanley Kubrick   主演: 凯尔·杜拉 Keir Dullea,科幻 惊悚 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560717825.jpg,posters\184_2001太空漫游.jpg
+185,https://movie.douban.com/subject/1292208/,上帝之城,9.0,2002,巴西 法国,费尔南多·梅里尔斯 Fernando Meirelles,犯罪 剧情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg,posters\185_上帝之城.jpg
+186,https://movie.douban.com/subject/25917973/,心迷宫,8.7,2014,中国大陆,忻钰坤 Yukun Xin   主演: 霍卫民 Weimin Huo,剧情 犯罪 悬疑,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926020289.jpg,posters\186_心迷宫.jpg
+187,https://movie.douban.com/subject/1297574/,英雄本色,8.6,1986,中国香港,吴宇森 John Woo   主演: 周润发 Yun-Fat Chow,剧情 动作 犯罪,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg,posters\187_英雄本色.jpg
+188,https://movie.douban.com/subject/1304447/,记忆碎片,8.7,2000,美国,克里斯托弗·诺兰 Christopher Nolan   主演: 盖·皮尔斯 Guy Pearce,犯罪 剧情 悬疑 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg,posters\188_记忆碎片.jpg
+189,https://movie.douban.com/subject/1295409/,纵横四海,8.8,1991,中国香港,吴宇森 John Woo   主演: 周润发 Yun-Fat Chow,剧情 喜剧 动作 犯罪,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2597918718.jpg,posters\189_纵横四海.jpg
+190,https://movie.douban.com/subject/6534248/,无敌破坏王,8.7,2012,美国,瑞奇·莫尔 Rich Moore   主演: 约翰·C·赖利 John C. Reilly,喜剧 动画 奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg,posters\190_无敌破坏王.jpg
+191,https://movie.douban.com/subject/1291822/,卢旺达饭店,8.9,2004,英国 南非 意大利 美国,特瑞·乔治 Terry George   主演: 唐·钱德尔 Don Cheadle,剧情 传记 历史 战争,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p470419493.jpg,posters\191_卢旺达饭店.jpg
+192,https://movie.douban.com/subject/27622447/,小偷家族,8.7,2018,日本,是枝裕和 Hirokazu Koreeda   主演: 中川雅也 Lily Franky,剧情 犯罪 家庭,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg,posters\192_小偷家族.jpg
+193,https://movie.douban.com/subject/3011051/,恐怖游轮,8.5,2009,英国 澳大利亚,"克里斯托弗·史密斯 Christopher Smith   主演: 梅利莎·乔治 Melissa ...
+                            2009",科幻 悬疑 奇幻 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p462470694.jpg,posters\193_恐怖游轮.jpg
+194,https://movie.douban.com/subject/1310177/,东京教父,9.0,2003,日本,今敏 Satoshi Kon   主演: 江守彻 Toru Emori,剧情 喜剧 动画,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p456703618.jpg,posters\194_东京教父.jpg
+195,https://movie.douban.com/subject/1291578/,冰川时代,8.7,2002,美国,卡洛斯·沙尔丹哈 Carlos Saldanha,喜剧 动画 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910895719.jpg,posters\195_冰川时代.jpg
+196,https://movie.douban.com/subject/1292329/,牯岭街少年杀人事件,8.9,1991,中国台湾,杨德昌 Edward Yang   主演: 张震 Chen Chang,剧情 犯罪,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p848381236.jpg,posters\196_牯岭街少年杀人事件.jpg
+197,https://movie.douban.com/subject/1307811/,魔女宅急便,8.7,1989,日本,宫崎骏 Hayao Miyazaki   主演: 高山南 Minami Takayama,动画 奇幻 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456676352.jpg,posters\197_魔女宅急便.jpg
+198,https://movie.douban.com/subject/1297880/,芙蓉镇,9.3,1987,中国大陆,谢晋 Jin Xie   主演: 刘晓庆 Xiaoqing Liu,剧情 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575337180.jpg,posters\198_芙蓉镇.jpg
+199,https://movie.douban.com/subject/3792799/,岁月神偷,8.7,2010,中国香港 中国大陆,罗启锐 Alex Law   主演: 吴君如 Sandra Ng,剧情 家庭,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg,posters\199_岁月神偷.jpg
+200,https://movie.douban.com/subject/1959195/,忠犬八公物语,9.2,1987,日本,神山征二郎 Seijirô Kôyama   主演: 仲代达矢 Tatsuya Nakadai,剧情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2603716224.jpg,posters\200_忠犬八公物语.jpg
+201,https://movie.douban.com/subject/24750126/,荒蛮故事,8.7,2014,阿根廷 西班牙,"达米安·斯兹弗隆 Damián Szifron   主演: 达里奥·葛兰帝内提 Darío...
+                            2014",剧情 喜剧 犯罪,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919686972.jpg,posters\201_荒蛮故事.jpg
+202,https://movie.douban.com/subject/1867345/,遗愿清单,8.7,2007,美国,罗伯·莱纳 Rob Reiner   主演: 杰克·尼科尔森 Jack Nicholson,冒险 喜剧 剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2676812053.jpg,posters\202_遗愿清单.jpg
+203,https://movie.douban.com/subject/27059130/,大佛普拉斯,8.7,2017,中国台湾,黄信尧 Hsin-yao Huang   主演: 庄益增 Yizeng Zhuang,剧情 喜剧,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505928032.jpg,posters\203_大佛普拉斯.jpg
+204,https://movie.douban.com/subject/3075287/,源代码,8.6,2011,美国 加拿大,邓肯·琼斯 Duncan Jones   主演: 杰克·吉伦哈尔 Jake Gyllenhaal,科幻 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p988260245.jpg,posters\204_源代码.jpg
+205,https://movie.douban.com/subject/3592854/,疯狂的麦克斯4：狂暴之路,8.7,2015,澳大利亚 美国,乔治·米勒 George Miller   主演: 汤姆·哈迪 Tom Hardy,动作 科幻 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2236181653.jpg,posters\205_疯狂的麦克斯4：狂暴之路.jpg
+206,https://movie.douban.com/subject/34874432/,花束般的恋爱,8.6,2021,日本,土井裕泰 Nobuhiro Doi   主演: 菅田将晖 Masaki Suda,剧情 爱情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2868462052.jpg,posters\206_花束般的恋爱.jpg
+207,https://movie.douban.com/subject/4848115/,你看起来好像很好吃,8.9,2010,日本,藤森雅也 Masaya Fujimori   主演: 山口胜平 Kappei Yamaguchi,剧情 动画 儿童,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p709670262.jpg,posters\207_你看起来好像很好吃.jpg
+208,https://movie.douban.com/subject/2209573/,贫民窟的百万富翁,8.6,2008,英国,丹尼·鲍尔 Danny Boyle,剧情 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg,posters\208_贫民窟的百万富翁.jpg
+209,https://movie.douban.com/subject/1308857/,可可西里,8.9,2004,中国大陆 中国香港,陆川 Chuan Lu   主演: 多布杰 Duobujie,剧情 犯罪,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2363208684.jpg,posters\209_可可西里.jpg
+210,https://movie.douban.com/subject/2133323/,白日梦想家,8.6,2013,美国 英国,本·斯蒂勒 Ben Stiller   主演: 本·斯蒂勒 Ben Stiller,剧情 喜剧 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893896472.jpg,posters\210_白日梦想家.jpg
+211,https://movie.douban.com/subject/1293908/,城市之光,9.3,1931,美国,"查理·卓别林 Charles Chaplin   主演: 查理·卓别林 Charles Chaplin ...
+                            1931",喜剧 剧情 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2170238828.jpg,posters\211_城市之光.jpg
+212,https://movie.douban.com/subject/5300054/,波西米亚狂想曲,8.6,2018,英国 美国,布莱恩·辛格 Bryan Singer   主演: 拉米·马雷克 Rami Malek,剧情 传记 同性 音乐,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549558913.jpg,posters\212_波西米亚狂想曲.jpg
+213,https://movie.douban.com/subject/25773932/,爆裂鼓手,8.6,2014,美国,达米恩·查泽雷 Damien Chazelle   主演: 迈尔斯·特勒 Miles Teller,剧情 音乐,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2915975989.jpg,posters\213_爆裂鼓手.jpg
+214,https://movie.douban.com/subject/1292328/,东邪西毒,8.6,1994,中国香港 中国台湾,王家卫 Kar Wai Wong   主演: 张国荣 Leslie Cheung,剧情 动作 爱情 武侠 古装,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg,posters\214_东邪西毒.jpg
+215,https://movie.douban.com/subject/1303394/,青蛇,8.6,1993,中国香港 中国大陆,徐克 Hark Tsui   主演: 张曼玉 Maggie Cheung,剧情 爱情 奇幻 古装,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923862788.jpg,posters\215_青蛇.jpg
+216,https://movie.douban.com/subject/25934014/,爱乐之城,8.4,2016,美国,达米恩·查泽雷 Damien Chazelle   主演: 瑞恩·高斯林 Ryan Gosling,剧情 爱情 歌舞,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2901105952.jpg,posters\216_爱乐之城.jpg
+217,https://movie.douban.com/subject/2051007/,哈利·波特与死亡圣器(上),8.6,2010,英国 美国,"大卫·叶茨 David Yates   主演: 丹尼尔·雷德克里夫 Daniel Radcliffe...
+                            2010",奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913456984.jpg,posters\217_哈利·波特与死亡圣器(上).jpg
+218,https://movie.douban.com/subject/1438652/,无耻混蛋,8.7,2009,德国 美国,昆汀·塔伦蒂诺 Quentin Tarantino   主演: 布拉德·皮特 Brad Pitt,剧情 犯罪,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575043939.jpg,posters\218_无耻混蛋.jpg
+219,https://movie.douban.com/subject/1291844/,终结者2：审判日,8.8,1991,美国 法国,"詹姆斯·卡梅隆 James Cameron   主演: 阿诺·施瓦辛格 Arnold Schwarz...
+                            1991",动作 科幻,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg,posters\219_终结者2：审判日.jpg
+220,https://movie.douban.com/subject/1978709/,黑天鹅,8.6,2010,美国,"达伦·阿罗诺夫斯基 Darren Aronofsky   主演: 娜塔莉·波特曼 Natalie...
+                            2010",剧情 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549648344.jpg,posters\220_黑天鹅.jpg
+221,https://movie.douban.com/subject/1293323/,大红灯笼高高挂,8.8,1991,中国大陆 中国香港 中国台湾,张艺谋 Yimou Zhang   主演: 巩俐 Li Gong,剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1254404823.jpg,posters\221_大红灯笼高高挂.jpg
+222,https://movie.douban.com/subject/4739952/,初恋这件小事,8.5,2010,泰国,普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn,剧情 喜剧 爱情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1505312273.jpg,posters\222_初恋这件小事.jpg
+223,https://movie.douban.com/subject/1292287/,新龙门客栈,8.7,1992,中国香港 中国大陆,李惠民 Raymond Lee   主演: 张曼玉 Maggie Cheung,动作 爱情 武侠 古装,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.jpg,posters\223_新龙门客栈.jpg
+224,https://movie.douban.com/subject/1302827/,人工智能,8.7,2001,美国 英国,"史蒂文·斯皮尔伯格 Steven Spielberg   主演: 海利·乔·奥斯蒙 Haley...
+                            2001",剧情 科幻,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg,posters\224_人工智能.jpg
+225,https://movie.douban.com/subject/1291870/,雨人,8.7,1988,美国,"巴瑞·莱文森 Barry Levinson   主演: 达斯汀·霍夫曼 Dustin Hoffman ...
+                            1988",剧情,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2353324612.jpg,posters\225_雨人.jpg
+226,https://movie.douban.com/subject/1300117/,千钧一发,8.8,1997,美国,安德鲁·尼科尔 Andrew Niccol   主演: 伊桑·霍克 Ethan Hawke,剧情 科幻 惊悚,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792423963.jpg,posters\226_千钧一发.jpg
+227,https://movie.douban.com/subject/1959877/,崖上的波妞,8.6,2008,日本,宫崎骏 Hayao Miyazaki   主演: 奈良柚莉爱 Yuria Nara,动画 奇幻 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2627847859.jpg,posters\227_崖上的波妞.jpg
+228,https://movie.douban.com/subject/1296909/,虎口脱险,8.9,1966,法国 英国,"杰拉尔·乌里 Gérard Oury   主演: 路易·德·菲耐斯 Louis de Funès...
+                            1966",喜剧 战争,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2399597512.jpg,posters\228_虎口脱险.jpg
+229,https://movie.douban.com/subject/1291879/,罗生门,8.8,1950,日本,黑泽明 Akira Kurosawa   主演: 三船敏郎 Toshirô Mifune,剧情 犯罪 悬疑,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1598883511.jpg,posters\229_罗生门.jpg
+230,https://movie.douban.com/subject/1457217/,哈利·波特与凤凰社,8.6,2007,英国 美国,"大卫·叶茨 David Yates   主演: 丹尼尔·雷德克里夫 Daniel Radcliffe...
+                            2007",奇幻 冒险,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913456924.jpg,posters\230_哈利·波特与凤凰社.jpg
+231,https://movie.douban.com/subject/25807345/,彗星来的那一夜,8.6,2013,美国 英国,"詹姆斯·沃德·布柯特 James Ward Byrkit   主演: 艾米丽·芭尔多尼 Em...
+                            2013",科幻 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2187896734.jpg,posters\231_彗星来的那一夜.jpg
+232,https://movie.douban.com/subject/1292401/,真爱至上,8.5,2003,英国 美国 法国,理查德·柯蒂斯 Richard Curtis   主演: 休·格兰特 Hugh Grant,喜剧 剧情 爱情,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg,posters\232_真爱至上.jpg
+233,https://movie.douban.com/subject/1309163/,恋恋笔记本,8.5,2004,美国,尼克·卡索维茨 Nick Cassavetes   主演: 瑞恩·高斯林 Ryan Gosling,剧情 爱情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg,posters\233_恋恋笔记本.jpg
+234,https://movie.douban.com/subject/25980443/,海边的曼彻斯特,8.6,2016,美国,"肯尼斯·罗纳根 Kenneth Lonergan   主演: 卡西·阿弗莱克 Casey Affle...
+                            2016",剧情 家庭,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.jpg,posters\234_海边的曼彻斯特.jpg
+235,https://movie.douban.com/subject/25864085/,火星救援,8.5,2015,英国 美国 匈牙利 约旦,雷德利·斯科特 Ridley Scott   主演: 马特·达蒙 Matt Damon,剧情 科幻 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2264592493.jpg,posters\235_火星救援.jpg
+236,https://movie.douban.com/subject/1304141/,黑客帝国2：重装上阵,8.7,2003,美国,拉娜·沃卓斯基 Lana Wachowski,动作 科幻,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461390.jpg,posters\236_黑客帝国2：重装上阵.jpg
+237,https://movie.douban.com/subject/2222996/,步履不停,8.8,2008,日本,是枝裕和 Hirokazu Koreeda   主演: 阿部宽 Hiroshi Abe,剧情 家庭,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375245718.jpg,posters\237_步履不停.jpg
+238,https://movie.douban.com/subject/26787574/,奇迹男孩,8.6,2017,美国 中国香港,"斯蒂芬·卓博斯基 Stephen Chbosky   主演: 雅各布·特伦布莱 Jacob Tr...
+                            2017",剧情 儿童 家庭,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507709428.jpg,posters\238_奇迹男孩.jpg
+239,https://movie.douban.com/subject/1307394/,千年女优,8.8,2001,日本,今敏 Satoshi Kon   主演: 庄司美代子 Miyoko Shôji,动画 剧情 爱情,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215102596.jpg,posters\239_千年女优.jpg
+240,https://movie.douban.com/subject/1419936/,战争之王,8.7,2005,美国 德国,安德鲁·尼科尔 Andrew Niccol   主演: 尼古拉斯·凯奇 Nicolas Cage,剧情 犯罪,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p792282381.jpg,posters\240_战争之王.jpg
+241,https://movie.douban.com/subject/4202982/,冰雪奇缘,8.5,2013,美国,克里斯·巴克 Chris Buck,喜剧 动画 奇幻 歌舞,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2151245053.jpg,posters\241_冰雪奇缘.jpg
+242,https://movie.douban.com/subject/1308767/,谍影重重2,8.7,2004,美国 德国,保罗·格林格拉斯 Paul Greengrass   主演: 马特·达蒙 Matt Damon,动作 悬疑 惊悚,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p667644866.jpg,posters\242_谍影重重2.jpg
+243,https://movie.douban.com/subject/1293318/,萤火虫之墓,8.7,1988,日本,高畑勋 Isao Takahata   主演: 辰己努,动画 剧情 战争,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2237136718.jpg,posters\243_萤火虫之墓.jpg
+244,https://movie.douban.com/subject/26374197/,蜘蛛侠：平行宇宙,8.6,2018,美国,鲍勃·佩尔西凯蒂 Bob Persichetti,动作 科幻 动画 冒险,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535851348.jpg,posters\244_蜘蛛侠：平行宇宙.jpg
+245,https://movie.douban.com/subject/1291936/,攻壳机动队,9.0,1995,日本,押井守 Mamoru Oshii   主演: 田中敦子 Atsuko Tanaka,动作 科幻 动画,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921045013.jpg,posters\245_攻壳机动队.jpg
+246,https://movie.douban.com/subject/1428175/,血钻,8.7,2006,美国 德国 英国,"爱德华·兹威克 Edward Zwick   主演: 莱昂纳多·迪卡普里奥 Leonardo ...
+                            2006",剧情 惊悚 冒险,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg,posters\246_血钻.jpg
+247,https://movie.douban.com/subject/1293964/,魂断蓝桥,8.8,1940,美国,茂文·勒鲁瓦 Mervyn LeRoy   主演: 费雯·丽 Vivien Leigh,剧情 爱情 战争,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg,posters\247_魂断蓝桥.jpg
+248,https://movie.douban.com/subject/26615208/,隐藏人物,8.9,2016,美国,"特奥多尔·梅尔菲 Theodore Melfi   主演: 塔拉吉·P·汉森 Taraji P. ...
+                            2016",剧情 传记 历史,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2374067318.jpg,posters\248_隐藏人物.jpg
+249,https://movie.douban.com/subject/25724855/,房间,8.7,2015,爱尔兰 加拿大 英国 美国,"伦尼·阿伯拉罕森 Lenny Abrahamson   主演: 布丽·拉尔森 Brie Larson...
+                            2015",剧情 家庭,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg,posters\249_房间.jpg
+250,https://movie.douban.com/subject/25977027/,小姐,8.5,2016,韩国,朴赞郁 Chan-wook Park   主演: 金敏喜 Min-hee Kim,剧情 悬疑 情色 同性,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2355555424.jpg,posters\250_小姐.jpg

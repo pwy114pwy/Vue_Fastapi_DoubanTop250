@@ -5,13 +5,14 @@ export const useAIStore = defineStore('ai', {
     drawerVisible: false,
     inputText: '',
     messages: [
-      { 
-        role: 'assistant', 
-        content: '你好！我是AI电影助手，可以为你介绍豆瓣Top250电影的相关信息。有什么想了解的吗？' 
+      {
+        role: 'assistant',
+        content: '你好！我是AI电影助手，可以为你介绍豆瓣Top250电影的相关信息。有什么想了解的吗？'
       }
     ],
     isLoading: false,
     moviesData: [],
+    customData: []
   }),
 
   actions: {
@@ -39,9 +40,9 @@ export const useAIStore = defineStore('ai', {
 
     clearMessages() {
       this.messages = [
-        { 
-          role: 'assistant', 
-          content: '你好！我是AI电影助手，可以为你介绍豆瓣Top250电影的相关信息。有什么想了解的吗？' 
+        {
+          role: 'assistant',
+          content: '你好！我是AI电影助手，可以为你介绍豆瓣Top250电影的相关信息。有什么想了解的吗？'
         }
       ];
     },
@@ -53,14 +54,17 @@ export const useAIStore = defineStore('ai', {
     setMoviesData(data) {
       this.moviesData = data;
     },
+    setCustomData(data) {
+      this.customData = data;
+    },
 
     async sendMessage() {
       if (!this.inputText.trim() || this.isLoading) return;
 
       // 添加用户消息
-      const userMessage = { 
-        role: 'user', 
-        content: this.inputText 
+      const userMessage = {
+        role: 'user',
+        content: this.inputText
       };
       this.addMessage(userMessage);
       const currentInput = this.inputText;
@@ -70,13 +74,19 @@ export const useAIStore = defineStore('ai', {
       try {
         // 调用AI API
         const aiResponse = await this.callAIAssistant(currentInput);
-        
-        this.addMessage({
-          role: 'assistant',
-          content: '好的'
-        });
-        this.setMoviesData(aiResponse);
-        
+        if (aiResponse.success) {
+          this.addMessage({
+            role: 'assistant',
+            content: '好的'
+          });
+          this.setCustomData(aiResponse.results);
+        } else {
+          this.addMessage({
+            role: 'assistant',
+            content: '抱歉，出现了一些问题，请稍后再试。'
+          });
+        }
+
         console.log(aiResponse)
       } catch (error) {
         this.addMessage({
@@ -97,16 +107,40 @@ export const useAIStore = defineStore('ai', {
           },
           body: JSON.stringify({ question: query })
         });
-        
+
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
-        
+
         const data = await response.json();
-        return data.results;
+
+        return data;
       } catch (error) {
         console.error('AI API Error:', error);
         return '抱歉，AI助手暂时无法响应，请稍后再试。';
+      }
+    },
+    async getAllData() {
+      
+      try {
+        const response = await fetch('http://localhost:8000/api/v1/getlist', {
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+        });
+
+        if (!response.ok) {
+          const errData = await response.json().catch(() => ({}))
+          throw new Error(errData.detail || '请求失败')
+        }
+
+        const data = await response.json();
+        this.setMoviesData(data.results);
+  
+      } catch (error) {
+        console.error('Error:', error);
+        return '错误';
       }
     }
   },
