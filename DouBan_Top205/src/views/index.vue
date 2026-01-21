@@ -22,7 +22,7 @@
               <template #default="{ row }">
                 <div class="title-cell">
                   <a :href="row.link">
-                  <span class="movie-title">{{ row.title }}</span>
+                    <span class="movie-title">{{ row.title }}</span>
                   </a>
                 </div>
               </template>
@@ -30,14 +30,8 @@
 
             <el-table-column prop="rating" label="评分" width="200" sortable>
               <template #default="{ row }">
-                <el-rate :model-value="parseFloat(row.rating/2)"
-                  disabled
-                  show-score
-                  text-color="#ff9900"
-                  :max="5"
-                  :allow-half="true"
-                  size="small"
-                  ></el-rate>
+                <el-rate :model-value="parseFloat(row.rating / 2)" disabled show-score text-color="#ff9900" :max="5"
+                  :allow-half="true" size="small"></el-rate>
               </template>
             </el-table-column>
 
@@ -59,14 +53,9 @@
 
         <!-- 分页组件 -->
         <div class="pagination-wrapper">
-          <el-pagination 
-            @size-change="handleSizeChange" 
-            @current-change="handleCurrentChange"
-            :current-page="currentPage" 
-            :page-sizes="[10, 20, 50, 100]" 
-            :page-size="pageSize"
-            layout="total, sizes, prev, pager, next, jumper" 
-            :total="filteredData.length">
+          <el-pagination @size-change="handleSizeChange" @current-change="handleCurrentChange"
+            :current-page="currentPage" :page-sizes="[10, 20, 50, 100]" :page-size="pageSize"
+            layout="total, sizes, prev, pager, next, jumper" :total="filteredData.length">
           </el-pagination>
         </div>
       </el-main>
@@ -93,7 +82,7 @@ const store = useAIStore();
 const allData = ref([]) // 存储所有数据
 const currentPage = ref(1)
 const pageSize = ref(10)
-const searchQuery = ref('')
+const search = ref('') // 直接使用一个变量来管理搜索查询
 const sortConfig = reactive({
   prop: '',
   order: ''  // 'ascending' or 'descending'
@@ -105,61 +94,39 @@ const getRankClass = (rank) => {
   return 'normal-rank'
 }
 
-// 获取所有数据
-// let getAllData = async () => {
-//   try {
-//     const response = await fetch('http://localhost:8000/api/v1/getlist', { // 获取所有数据
-//       method: 'GET',
-//       headers: {
-//         'Content-Type': 'application/json'
-//       },
-//     })
-
-//     if (!response.ok) {
-//       const errData = await response.json().catch(() => ({}))
-//       throw new Error(errData.detail || '请求失败')
-//     }
-
-//     const data = await response.json()
-//     allData.value = data.results || data // 根据实际返回的数据结构调整
-//     console.log('获取到的数据:', data)
-//   } catch (e) {
-//     console.log(e)
-//   }
-// }
-
 // 计算过滤后的数据
 const filteredData = computed(() => {
   let result = allData.value
   // 搜索过滤
-  if (searchQuery.value) {
+  if (search.value) {
+    const searchTerm = search.value.toLowerCase()
     result = result.filter(
       (data) =>
-        data.title.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
-        data.director.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
-        data.country.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
-        data.genre.toLowerCase().includes(searchQuery.value.toLowerCase())
+        data.title.toLowerCase().includes(searchTerm) ||
+        data.director.toLowerCase().includes(searchTerm) ||
+        data.country.toLowerCase().includes(searchTerm) ||
+        data.genre.toLowerCase().includes(searchTerm)
     )
   }
-  
+
   // 排序
   if (sortConfig.prop && sortConfig.order) {
     result = [...result].sort((a, b) => {
       let valA = a[sortConfig.prop]
       let valB = b[sortConfig.prop]
-      
+
       // 处理数字类型排序
       if (!isNaN(valA) && !isNaN(valB)) {
         valA = Number(valA)
         valB = Number(valB)
       }
-      
+
       // 处理字符串类型排序
       if (typeof valA === 'string' && typeof valB === 'string') {
         valA = valA.toLowerCase()
         valB = valB.toLowerCase()
       }
-      
+
       if (sortConfig.order === 'asc') {
         return valA > valB ? 1 : -1
       } else {
@@ -167,7 +134,7 @@ const filteredData = computed(() => {
       }
     })
   }
-  
+
   return result
 })
 
@@ -195,10 +162,8 @@ const handleSort = ({ column, prop, order }) => {
   sortConfig.order = order === 'ascending' ? 'asc' : order === 'descending' ? 'desc' : ''
 }
 
-// 搜索功能
-const search = ref('')
-watch(search, (newVal) => {
-  searchQuery.value = newVal
+// 搜索功能 - 当搜索值变化时重置到第一页
+watch(search, () => {
   currentPage.value = 1 // 搜索时重置到第一页
 })
 
@@ -211,9 +176,9 @@ watch(() => store.customData, (newData) => {
   }
 }, { deep: true });
 
-onMounted(async() => {
+onMounted(async () => {
   await store.getAllData()
-  allData.value=store.moviesData
+  allData.value = store.moviesData
 })
 </script>
 
@@ -294,7 +259,8 @@ onMounted(async() => {
 .title-cell {
   display: flex;
   align-items: center;
-  a{
+
+  a {
     text-decoration: none;
   }
 }

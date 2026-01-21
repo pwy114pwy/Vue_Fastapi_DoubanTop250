@@ -20,7 +20,11 @@ def get_rating_distribution():
 @router.get("/genre-count")
 def get_genre_count():
     movies = load_movies()
-    all_genres = [g for movie in movies for g in movie.genres]
+    all_genres = []
+    for movie in movies:
+        # 处理 genre 字符串，按逗号分割并去除空格
+        genres = [g.strip() for g in movie.genre.split("/") if g.strip()]
+        all_genres.extend(genres)
     counter = Counter(all_genres)
     # 取前10
     most_common = counter.most_common(10)

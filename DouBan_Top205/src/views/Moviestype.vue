@@ -227,8 +227,8 @@ const handleLoveCurrentChange = (page) => {
 
 // 自定义分页事件处理
 const handleCustomSizeChange = (size) => {
-  lovePageSize.value = size;
-  loveCurrentPage.value = 1;
+  customPageSize.value = size;
+  customCurrentPage.value = 1;
 };
 const handleCustomCurrentChange = (page) => {
   customCurrentPage.value = page;
