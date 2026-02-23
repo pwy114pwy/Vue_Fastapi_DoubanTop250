@@ -11,6 +11,18 @@
 - **电影分类浏览**：按类型、国家、导演等维度浏览电影数据
 - **响应式设计**：适配不同屏幕尺寸，提供良好的用户体验
 
+## 🖼️ 运行效果
+
+<div align="center">
+  <img src="assets/images/demo_1.png" width="800px" alt="Web 界面演示">
+  <p>图 1：Web 端电影数据可视化界面</p>
+</div>
+
+<div align="center">
+  <img src="assets/images/demo_2.png" width="800px" alt="检测结果展示">
+  <p>图 2：AI 辅助查询界面</p>
+</div>
+
 ## 技术栈
 
 ### 前端

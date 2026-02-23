@@ -3,7 +3,7 @@ import requests
 from typing import Optional
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-DEFAULT_MODEL = "qwen3:1.7b"
+DEFAULT_MODEL = "Qwen-aye-3.0:latest"
 
 
 def generate_sql_from_question(question: str, model: str = DEFAULT_MODEL) -> str:
