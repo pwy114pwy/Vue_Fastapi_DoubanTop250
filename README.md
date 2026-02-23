@@ -77,7 +77,7 @@ Vue_Fastapi豆瓣top250/
 ### 1. 克隆项目
 
 ```bash
-git clone <项目仓库地址>
+git clone https://github.com/pwy114pwy/Vue_Fastapi_DoubanTop250
 cd Vue_Fastapi豆瓣top250
 ```
 

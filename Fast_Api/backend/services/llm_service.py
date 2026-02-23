@@ -3,7 +3,7 @@ import requests
 from typing import Optional
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-DEFAULT_MODEL = "qwen3:8b"
+DEFAULT_MODEL = "qwen3:1.7b"
 
 
 def generate_sql_from_question(question: str, model: str = DEFAULT_MODEL) -> str:
@@ -12,11 +12,11 @@ def generate_sql_from_question(question: str, model: str = DEFAULT_MODEL) -> str
     """
     prompt = f"""
 只输出SQL查询语句，不要任何解释、分析或思考过程。
-
-表结构：movies (title TEXT, rating REAL, year INTEGER, country TEXT, director TEXT, genre TEXT, rank INTEGER)
+请务必记住以下内容：
+数据库表结构：movies (title TEXT, rating REAL, year INTEGER, country TEXT, director TEXT, genre TEXT, rank INTEGER)
 
 要求：
-1. 只输出SQL，无解释
+1. 只输出SQL，无解释,以及
 2. 只允许SELECT，禁止危险操作
 3. 用单引号包围字符串值
 4. 对于 country、director、genre 字段：
@@ -46,7 +46,7 @@ SQL：""".strip()
     }
 
     try:
-        response = requests.post(OLLAMA_URL, json=payload, timeout=120)
+        response = requests.post(OLLAMA_URL, json=payload, timeout=200)
         if response.status_code != 200:
             raise Exception(f"Ollama API error: {response.text}")
 
